@@ -1,0 +1,19 @@
+{
+  "name": "GGG-AI Lesson Studio",
+  "short_name": "GGG-AI",
+  "description": "중학교 특수교사를 위한 학생별 수업 설계 스튜디오",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f3",
+  "theme_color": "#0c5f55",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
